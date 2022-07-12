@@ -1,2 +1,2 @@
 # Excel project
-Deo of Data visulization using different excel visualization features
+Demo of Data visulization using different excel visualization features
